@@ -16,4 +16,6 @@ number=int(input("Guess the number:"))
 while number!= secret_number:
     print("Ha ha! You're stuck in my loop!")
     number=int(input("Guess the number again:"))
+    break
 print("Well done, muggle! You are free now.")
+break
