@@ -1,4 +1,4 @@
-#
+#the code for muggle game:
 secret_number=777
 print(
 """
